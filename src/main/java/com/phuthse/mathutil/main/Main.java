@@ -6,10 +6,7 @@ package com.phuthse.mathutil.main;
 
 import com.phuthse.mathutil.core.MathUtility;
 
-/**
- *
- * @author giao.lang
- */
+
 public class Main {
 
     /**

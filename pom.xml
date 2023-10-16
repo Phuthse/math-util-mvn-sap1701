@@ -7,8 +7,8 @@
     <packaging>jar</packaging>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <maven.compiler.source>17</maven.compiler.source>
-        <maven.compiler.target>17</maven.compiler.target>
+        <maven.compiler.source>18</maven.compiler.source>
+        <maven.compiler.target>18</maven.compiler.target>
         <exec.mainClass>com.phuthse.math.util.mvn.sap1701.MathUtilMvnSap1701</exec.mainClass>
     </properties>
     
@@ -23,7 +23,7 @@
         <dependency>
             <groupId>com.microsoft.sqlserver</groupId>
             <artifactId>mssql-jdbc</artifactId>
-            <version>12.3.0.jre20-preview</version>
+            <version>12.3.0.jre18-preview</version>
         </dependency>
         
         <dependency>
